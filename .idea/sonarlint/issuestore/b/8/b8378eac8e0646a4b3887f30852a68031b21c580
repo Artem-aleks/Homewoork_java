@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öà¾Íøÿÿÿÿ8‹Äı¢û1J$670e5e0b-c4a8-44e3-9c0b-427043058662
+”
+java:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(»ğ¶ü8ìÄı¢û1J$95f2f1d7-9ae6-41bc-a29c-d305a6948313
+r	java:S106-"+Replace this use of System.out by a logger.(Ğ‡©şÿÿÿÿ8ß‡¹£û1J$fa39f3b5-4ba5-440c-bd8f-ea7bd2039916
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8™Æı¢û1J$f78f5e4b-49c9-426d-b066-4f836d22005b
+¯
+java:S1130G"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ú¥İ—8æ‡¹£û1J$f138aee0-3857-4020-bb02-f9fc1ea980f5

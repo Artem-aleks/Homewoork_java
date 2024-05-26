@@ -1,0 +1,4 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öà¾ÍøÿÿÿÿJ$7f87588a-6055-4aaf-8848-2401e35d3db9
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ôÒÄ£û1J$344bac3d-fef2-479b-abe7-f693724c5252

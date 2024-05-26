@@ -1,0 +1,9 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ıá›¥û1J$e3e15bf6-45f8-491a-8a81-2156fcabc184
+	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8‹â›¥û1J$32a70bab-44f3-4e4f-b00a-a74c904ab8f5
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öà¾Íøÿÿÿÿ8ƒ•½£û1J$ce3b15c2-3b3e-4981-8b6c-c9b661ce2baf
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(’‰ô8İ•½£û1J$bc0d608b-8bde-49df-8a84-9660be1b195d
+r	java:S106"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8á•½£û1J$417b48f6-534d-44f5-8758-ee97e368bb4f
+¯
+java:S1130%"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(øæÏ„8æ•½£û1J$4d6615d7-9669-4700-8617-96e531d33b00

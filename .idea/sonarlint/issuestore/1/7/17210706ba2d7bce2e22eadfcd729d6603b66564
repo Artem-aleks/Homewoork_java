@@ -1,0 +1,9 @@
+
+j
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8±¢¿‹÷1J$e01eae6f-2925-4040-9613-446400a22a36
+£
+java:S1450
+"[Remove the "serverSocket" field and declare it as a local variable in the relevant methods.(“—Ó¿ýÿÿÿÿ8­“—ôö1J$549ff823-be4e-4178-a37f-a752b9846c3c
+l
+java:S3010"$Remove this assignment of "clients".(‘À‡Üÿÿÿÿÿ8³“—ôö1J$87f2dc63-f160-4fb1-993d-8a6b781dce5a
+r	java:S106"+Replace this use of System.out by a logger.(öÏ îûÿÿÿÿ8µ“—ôö1J$e690b9e2-a147-4e1d-8078-8c1ec0f05738
